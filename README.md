@@ -1,2 +1,2 @@
 # happy bouncing ball game
- happy bouncing ball game with javascript
+ happy bouncing ball with javascript
